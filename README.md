@@ -1,3 +1,3 @@
-#JAVA CALCULATOR
-##Beginners Project
-###Code and comments in src
+# JAVA CALCULATOR
+## Beginners Project
+### Code and comments in src
